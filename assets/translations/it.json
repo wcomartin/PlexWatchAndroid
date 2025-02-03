@@ -167,5 +167,14 @@
     "all_users_title": "Tutti gli Utenti",
     "app_logs_title": "Log dell’App",
     "custom_color_title": "Colore Custom",
-    "custom_http_headers_title": "HTTP Headers Custom"
+    "custom_http_headers_title": "HTTP Headers Custom",
+    "burn_title": "Bruciato",
+    "check_again_title": "Ricontrollare",
+    "clear_tautulli_image_cache_success_snackbar_message": "{} cache dell'immagine cancellata",
+    "activity_empty_message": "Niente in riproduzione",
+    "announcements_load_failed_message": "Impossibile caricare gli annunci.",
+    "clear_tautulli_image_cache_subtitle": "Rimozione della immagini nella cache",
+    "clear_tautulli_image_cache_title": "Rimuovi {} image cache",
+    "clear_title": "Rimuovi",
+    "daily_play_count_by_media_type_title": "Riproduzioni giornaliere per tipologia"
 }
