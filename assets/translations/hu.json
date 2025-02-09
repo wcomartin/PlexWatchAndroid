@@ -184,7 +184,7 @@
     "published_title": "Megjelent",
     "quality_title": "Minőség",
     "request_a_new_language_title": "Új nyelv kérelmezése",
-    "runtime_title": "Futásidő",
+    "runtime_title": "Műsoridő",
     "search_history_title": "Keresési előzmények",
     "seasons": "évadok",
     "secondary_connection_address_explanation_one": "A másodlagos kapcsolati cím akkor lesz használatban, ha az elsődleges kapcsolati cím nem elérhető.",
@@ -366,5 +366,7 @@
     "daily_play_time_by_media_type_title": "Napi lejátszási idő médiatípusonként",
     "error_suggestion_invalid_api_key": "Ellenőrizd a készüléked tokenjét, vagy próbálj új QR-kódot generálni a Tautulli oldalon.",
     "library_media_full_refresh_subtitle": "Médiatár frissítése Tautulliban, amikor az frissül",
-    "player_stats_empty_message": "Nem találtunk lejátszási statisztikát."
+    "player_stats_empty_message": "Nem találtunk lejátszási statisztikát.",
+    "clear_tautulli_image_cache_title": "Képgyorsítótár {} törlése",
+    "clear_title": "Törlés"
 }
